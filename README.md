@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, i'm farhan
 
 <!--
 **bronnie05/bronnie05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Robotics and AI engineer
+- 🌱 I’m currently learning arduino, C, python
