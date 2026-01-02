@@ -1,5 +1,6 @@
 ![banner](img/banner.png)
-## Hello, i'm farhan
+## Hi, i'm Farhan
+
 
 <!--
 **bronnie05/bronnie05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Robotics and AI engineer
-- 🌱 I’m currently learning arduino, C, python
+- 🎓 Robotics & Artificial Intelligence Engineering student at Universitas Airlangga  
+- 🤖 Interested in Robotics, AI, ML, DL  
+- 🌱 Currently improving my skills in programming, electrical, and mechanical 
+- ⚡ Love building small projects and learning new technologies
 
-![farhan](img/been%20busy_.jpg)
+## Skill
+
