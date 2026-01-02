@@ -1,3 +1,4 @@
+![banner](img/banner.png)
 ## Hello, i'm farhan
 
 <!--
@@ -17,3 +18,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Robotics and AI engineer
 - 🌱 I’m currently learning arduino, C, python
+
+![farhan](img/been%20busy_.jpg)
