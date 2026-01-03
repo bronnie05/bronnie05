@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=python,c,arduino)](https://skillicons.dev)
 
 ## Statistic
-[![farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bronnie05&show_icons=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bronnie05)](https://github.com/bronnieo5/github-readme-stats)
+
+## Contact Me
+![https://instagram.com/twinzzeey]()
 
 
 
