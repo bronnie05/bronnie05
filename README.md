@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 
 - 🎓 Robotics & Artificial Intelligence Engineering student at Universitas Airlangga  
 - 🤖 Interested in Robotics, AI, ML, DL  
-- 🌱 Currently improving my skills in programming, electrical, and mechanical 
+- 🌱 Currently improving my skills in programming, Robotics, AI 
 - ⚡ Love building small projects and learning new technologies
 
 ## Skill
+[![My Skills](https://skillicons.dev/icons?i=python,c,arduino)](https://skillicons.dev)
 
+## Statistic
+[![Farhan GitHub stats](https://github-readme-stats.vercel.app/api?username=bronny05)](https://github.com/anuraghazra/github-readme-stats)
